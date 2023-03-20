@@ -36,8 +36,8 @@ Home team **Max7219 board 1 pos3&4**
 Visitors team **Max7219 board 1 pos1&2**
 
 #### Quarter 3
-Home team *Max7219 board 2 pos7&8**
-Visitors team *Max7219 board 2 pos5&6**
+Home team **Max7219 board 2 pos7&8**
+Visitors team **Max7219 board 2 pos5&6**
 
 #### Quarter 4
 Home team **Max7219 board 2 pos3&4**
